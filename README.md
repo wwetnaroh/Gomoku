@@ -44,7 +44,11 @@ sh start_frontend.sh
 sh start_backend.sh
 ```
 ## Demo
-https://github.com/wwetnaroh/Gomoku/blob/master/videoplayback.mp4
+
+
+https://user-images.githubusercontent.com/41310207/168662348-3e1b2b76-5080-4246-bd33-cfedc6a9b152.mp4
+
+
 
 ## Related docs
 -  __DeepMind's paper on AlphaZero__: _{Silver, David, et al. "A general reinforcement learning algorithm that masters chess, shogi, and Go through self-play." Science 362.6419 (2018): 1140-1144._
